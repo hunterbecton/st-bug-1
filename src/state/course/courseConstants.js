@@ -1,0 +1,3 @@
+export const CURRENT_VIDEO = "CURRENT_VIDEO"
+export const PLAYING_VIDEO = "PLAYING_VIDEO"
+export const FEATURE_VIDEO = "FEATURE_VIDEO"

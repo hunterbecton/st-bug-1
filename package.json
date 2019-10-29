@@ -13,12 +13,19 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "firebase": "^7.2.2",
     "gatsby": "^2.17.6",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "react-redux": "^7.1.1",
+    "react-redux-firebase": "^3.0.3",
+    "redux": "^4.0.4",
+    "redux-firestore": "^0.9.0",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "redux-devtools-extension": "^2.13.8"
   },
   "repository": {
     "type": "git",
